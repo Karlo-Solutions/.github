@@ -8,7 +8,6 @@
 
 **Karlo** (Distribución Digital Automotriz S.A.P.I. de C.V.) es una empresa de tecnología mexicana fundada en **2018**, especializada en soluciones SaaS para la industria automotriz. Con sede en **Guadalajara, Jalisco**, llevamos más de 8 años ayudando a concesionarias y agencias a digitalizar sus procesos, mejorar la experiencia de sus clientes y potencializar sus ventas.
 
-
 ---
 
 ## 📊 Karlo en números
@@ -43,15 +42,25 @@ Permite a los clientes de una agencia pagar sus servicios, refacciones, apartado
 ### 🤖 Karbot
 🔗 [karbot.mx](https://karbot.mx)
 
-**Bot inteligente y personalizado para ventas digitales.**
+**La plataforma comercial que potencializa tu negocio — automatización conversacional por WhatsApp.**
 
-Centraliza todos los leads de distintas áreas a través de **WhatsApp** y los asigna automáticamente a los asesores correctos.
+Karbot es una herramienta de automatización conversacional diseñada para mejorar la atención y seguimiento de clientes a través de WhatsApp. Centraliza todos los leads, los atiende de forma inmediata y los distribuye inteligentemente entre tus asesores — sin intervención manual.
 
 **Características:**
-- Integración nativa con WhatsApp
-- Asignación automática de leads a asesores
-- Ideal para: venta de autos nuevos, seminuevos y citas de servicio
-- Gestión centralizada de múltiples fuentes de leads
+- 🔄 **Flujos personalizados** — Crea automatizaciones adaptadas a tu proceso de ventas
+- ⚡ **Atención inmediata de leads** — Tus asesores descansan, pero Karbot siempre contesta; no pierdas oportunidades de venta
+- 🎯 **Asignación inteligente** — Distribuye prospectos automáticamente entre asesores para nuevos, seminuevos, postventa y F&I
+- 📲 **Multi-canal** — Centraliza leads de WhatsApp, Facebook e Instagram en un solo lugar
+- 🔗 **Integración con CRM** — Conecta tus canales de captación y simplifica tu canal de conversión
+- 📊 **Reportes en tiempo real** — Mide tiempos de atención, desempeño de asesores y canales más efectivos; exporta leads a Excel
+- 🖥️ **Acceso multiplataforma** — Disponible desde cualquier dispositivo móvil o PC
+- 📣 **Campañas masivas** — Elabora campañas de retención y garantías en minutos
+
+**Disponible en:**
+
+[![App Store](https://img.shields.io/badge/App_Store-000000?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/mx/app/karbot/id6749016490) [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.karbotapp&hl=es_MX)
+
+**Documentación API:** [docs.karbot.mx](https://docs.karbot.mx)
 
 ---
 
